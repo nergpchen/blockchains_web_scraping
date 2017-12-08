@@ -4,8 +4,8 @@ from requests.auth import HTTPBasicAuth
 import json
 import time
 
-username = 'dknz2008'
-password = 'Ddr31600'
+username = 'username'
+password = 'password'
 forks_list = []
 
 def main():
